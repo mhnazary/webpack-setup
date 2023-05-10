@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 10rem auto;
+    border: 2px solid blue;
+    padding: 2rem;
+    height: 400px;
+}
